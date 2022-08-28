@@ -8,7 +8,7 @@
   <EnableSsl>False</EnableSsl>
   <LaunchBrowser>True</LaunchBrowser>
   <ApiKey>5f042273666c49fd948a114b52de7d25</ApiKey>
-  <AuthenticationMethod>Forms</AuthenticationMethod>
+  <AuthenticationMethod>None</AuthenticationMethod>
   <Branch>master</Branch>
   <SslCertPath></SslCertPath>
   <SslCertPassword></SslCertPassword>
